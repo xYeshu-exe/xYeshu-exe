@@ -1,24 +1,31 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=xyeshu.exe&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
-</p>
+# xyeshu.exe </>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🛡️_Security-Researcher-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💻_Developer-Python-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💭_Thinking-Community-white?style=for-the-badge" />
-</p>
+**🔐 Cyber Security Student | Building high-performance security tools.**  
+*Member, Thinking Community* 💭
 
----
+## 👨‍💻 About Me
 
-### 👨‍💻 $ whoami
-> **Name:** Pamuda Yehansith  
-> **Mission:** Developing advanced shields to protect the digital world.  
-> **Specialty:** Web Security Engine Development & Anomaly Detection.
+```python
+class Yeshu:
+    def __init__(self):
+        self.name = "Pamuda Yehansith"
+        self.alias = "xYeshu"
+        self.role = "Cyber Security Enthusiast & Developer"
+        self.community = "Thinking Community 💭"
+        self.skills = [
+            "WAF Development", 
+            "DDoS Mitigation",
+            "Python Backend",
+            "Botnet Defense"
+        ]
+    
+    def current_focus(self):
+        return "Enhancing Thinking Security Engine & Web Protection"
+    
+    def contact(self):
+        return {
+            "Discord": "xYeshu-exe",
+            "GitHub": "https://github.com/xYeshu-exe"
+        }
 
-### 🛠️ $ ls --skills
-```bash
-# Core Technologies
-- [✔] Python (FastAPI, HTTPX)
-- [✔] Web Security (WAF, DDoS Mitigation)
-- [✔] Bot Defense (JS Challenges, Reputation)
-- [✔] Front-end (HTML5, CSS3, JS)
+me = Yeshu()
