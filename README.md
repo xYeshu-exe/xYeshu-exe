@@ -10,15 +10,29 @@
 
 ---
 
-### 👨‍💻 $ whoami
-> **Name:** Pamuda Yehansith  
-> **Mission:** Developing advanced shields to protect the digital world.  
-> **Specialty:** Web Security Engine Development & Anomaly Detection.
-
-### 🛠️ $ ls --skills
-```bash
-# Core Technologies
-- [✔] Python (FastAPI, HTTPX)
-- [✔] Web Security (WAF, DDoS Mitigation)
-- [✔] Bot Defense (JS Challenges, Reputation)
+**🔐 Cyber Security Student | Building high-performance security tools.**  
+*Member, Thinking Community* 💭
+## 👨‍💻 About Me
+```python
+class Yeshu:
+    def __init__(self):
+        self.name = "Pamuda Yehansith"
+        self.role = "Cyber Security Enthusiast & Developer"
+        self.community = "Thinking Community 💭"
+        self.skills = [
+            "WAF Development", 
+            "DDoS Mitigation",
+            "Python Backend",
+            "Botnet Defense"
+        ]
+    
+    def current_focus(self):
+        return "Enhancing Thinking Security Engine & Web Protection"
+    
+    def contact(self):
+        return {
+            "Discord": "xYeshu",
+            "GitHub": "https://github.com/xYeshu-exe"
+        }
+me = Yeshu()
 - [✔] Front-end (HTML5, CSS3, JS)
