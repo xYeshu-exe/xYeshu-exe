@@ -14,9 +14,9 @@
 *Member, Thinking Community* 💭
 ## 👨‍💻 About Me
 ```python
-class Yeshu:
+class Cruz:
     def __init__(self):
-        self.name = "Pamuda Yehansith"
+        self.name = "xCruz-ExE"
         self.role = "Cyber Security Enthusiast & Developer"
         self.community = "Thinking Community 💭"
         self.skills = [
