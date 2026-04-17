@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=xyeshu.exe&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=xCruz.exe&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
 
 <p align="center">
@@ -31,8 +31,8 @@ class Cruz:
     
     def contact(self):
         return {
-            "Discord": "xYeshu",
-            "GitHub": "https://github.com/xYeshu-exe"
+            "Discord": "x.cruz.exe",
+            "GitHub": "https://github.com/xCruz-exe"
         }
-me = Yeshu()
+me = Cruz()
 - [✔] Front-end (HTML5, CSS3, JS)
